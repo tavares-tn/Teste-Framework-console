@@ -1,0 +1,13 @@
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital.deps.json
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital.runtimeconfig.json
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital.runtimeconfig.dev.json
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital.dll
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/bin/Debug/netcoreapp3.1/DesafioFrameworkDigital.pdb
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.csprojAssemblyReference.cache
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.AssemblyInfoInputs.cache
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.AssemblyInfo.cs
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.csproj.CoreCompileInputs.cache
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.dll
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.pdb
+/home/tavares/Projetos/C-Sharp/DesafioFrameworkDigital/obj/Debug/netcoreapp3.1/DesafioFrameworkDigital.genruntimeconfig.cache
